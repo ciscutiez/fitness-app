@@ -2,15 +2,6 @@
 
 A fitness app built using React Native and Expo.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Dependencies](#dependencies)
-- [DevDependencies](#devdependencies)
-- [Testing](#testing)
-- [License](#license)
 
 ## Installation
 
